@@ -2,6 +2,7 @@ package boardgame;
 
 public class Positions {
 
+
 	private Integer row;
 	private Integer column;
 	
@@ -29,6 +30,7 @@ public class Positions {
 	public String toString() {
 		return row + ", " + column;
 	}
+	
 	
 	
 }
